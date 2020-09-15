@@ -34,7 +34,7 @@ Weak entity - An entity that cannot be uniquely identified by its attribute alon
 
 The company is organized into **branches**. Each branch has a unique number and a name.
 
-![alt text](https://github.com/TheJproject/Black-Hole-Orbital-Mechanics/ER1.png?raw=true)
+![alt text](https://github.com/TheJproject/Black-Hole-Orbital-Mechanics/blob/main/ER1.png?raw=true)
 
 The company makes it's money by selling to **clients**. Each **clients** has a name and unique number to identify it.
 
