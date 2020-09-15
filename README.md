@@ -1,6 +1,8 @@
 # Black-Hole-Orbital-Mechanics
 
-##Abstract
+
+**Abstract
+
 > In this report, we derive the four types of orbits that appears in the Kepler problem.
 We start from the Two-body problem that we transform into a One-body problem with
 reduced mass. We then dig into orbits in the Schwarszchild metric where we derive
