@@ -1,7 +1,4 @@
-# Black-Hole-Orbital-Mechanics
-
-
-**Abstract
+**Abstract [(Paper Linked)]**
 
 > In this report, we derive the four types of orbits that appears in the Kepler problem.
 We start from the Two-body problem that we transform into a One-body problem with
